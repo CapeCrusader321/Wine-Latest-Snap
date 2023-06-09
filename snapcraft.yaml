@@ -20,7 +20,7 @@ slots:
 package-repositories:
   - type: apt
     architectures: [i386,amd64]
-    key-id: 0x76F1A20FF987672F
+    key-id: 76F1A20FF987672F
     key-server: https://dl.winehq.org/wine-builds/winehq.key
     formats: [deb]
     components: [main]
