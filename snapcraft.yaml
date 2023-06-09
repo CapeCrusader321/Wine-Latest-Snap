@@ -21,7 +21,7 @@ package-repositories:
   - type: apt
     architectures: [i386,amd64]
     key-id: D43F640145369C51D786DDEA76F1A20FF987672F
-    key-server: https://dl.winehq.org/wine-builds/winehq.key
+    key-server: https://dl.winehq.org/wine-builds/
     formats: [deb]
     components: [main]
     suites: [jammy]
